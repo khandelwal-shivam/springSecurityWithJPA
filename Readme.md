@@ -1,4 +1,6 @@
 database name = myhiber
+
+
 creating USER tables in sql
 
  create table USER(
